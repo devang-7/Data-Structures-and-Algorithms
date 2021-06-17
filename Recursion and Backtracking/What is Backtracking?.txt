@@ -1,0 +1,2 @@
+Backtracking is the improvement of the brute force approach. It systematically searches for a solution to a problem among all available options.
+Backtracking is a form of recursion. 
